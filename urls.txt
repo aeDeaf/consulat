@@ -1,0 +1,11 @@
+http://slave-test-0.service.consul:5000, 192.168.31.90
+http://slave-test-1.service.consul:5001, 192.168.31.90
+http://slave-test-2.service.consul:5002, 192.168.31.90
+http://slave-test-3.service.consul:5003, 192.168.31.90
+http://slave-test-4.service.consul:5000, 192.168.31.62
+http://slave-test-5.service.consul:5001, 192.168.31.62
+http://slave-test-6.service.consul:5002, 192.168.31.62
+http://slave-test-7.service.consul:5003, 192.168.31.62
+http://slave-test-8.service.consul:5000, 192.168.31.220
+http://slave-test-9.service.consul:5001, 192.168.31.220
+http://slave-test-10.service.consul:5002, 192.168.31.220
